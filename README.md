@@ -309,3 +309,5 @@ OpenAPI documentation will be available at `/openapi/v1.json` in development mod
 ## Contributing
 
 [Add contribution guidelines here]
+
+Note: Help from Chatgpt
